@@ -1,12 +1,8 @@
 ## Hi there 👋
 
-<!--
+1. 1일 1문제(자율)
 
-**Here are some ideas to get you started:**
+2. 매주 일요일 + 시간 유동
+ - 2명 이상 참여 힘들 경우 요일 변경
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+3. 그 주 풀었던 문제 중 공유하고 싶은 문제 최소 1문제
