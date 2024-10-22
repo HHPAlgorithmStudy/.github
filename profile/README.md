@@ -4,9 +4,9 @@
 - 2명 이상 참여 힘들 경우 요일 변경
 - 그 주 풀었던 문제 중 공유하고 싶은 문제 최소 1문제
 
-<a href="[링크](https://www.acmicpc.net/problem/tags)"><img src="https://img.shields.io/badge/BECKJOON-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.acmicpc.net/problem/tags"><img src="https://img.shields.io/badge/BECKJOON-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
-<a href="[링크](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)"><img src="https://img.shields.io/badge/Programmers-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"/></a>
+<a href="https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit"><img src="https://img.shields.io/badge/Programmers-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"/></a>
 
 
 ## 10월 21일~ 10월 27일 4주차
