@@ -9,8 +9,12 @@
 <a href="https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit"><img src="https://img.shields.io/badge/Programmers-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"/></a>
 
 
-## 10월 21일~ 10월 27일 4주차
 
+## 1주차
+
+<details>
+    <summary>10월 21일~ 10월 27일 </summary>
+  
 | 요일  | 김근우 | 노원욱 | 박새미 | 조현재 | 
 |:----------:|:----:|:----:|:----:|:----:|
 | 월 |  |  ✅ |  ✅ |  ✅ |   
@@ -20,5 +24,24 @@
 | 금 | ✅ | ✅  |   |  ✅  |   
 | 토 |   |  ✅ |   | ✅   |  
 | 일 | ✅ |   |   |   |  
+
+</details> 
+
+## 2주차
+
+<details>
+    <summary>10월 28일~ 11월 03일 </summary>
+  
+| 요일  | 김근우 | 노원욱 | 박새미 | 조현재 | 
+|:----------:|:----:|:----:|:----:|:----:|
+| 월 |  |   |   |   |   
+| 화 |  |   |   |   |   
+| 수 |  |   | |   |  
+| 목 |  |   |   |    |  
+| 금 |  |   |   |    |   
+| 토 |   |   |   |   |  
+| 일 |  |   |   |   |  
+
+</details>
 
 
